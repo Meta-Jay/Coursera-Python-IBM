@@ -1,0 +1,8 @@
+17:22:26.442451 Dec-13-2021 , Kick Off ETL process
+17:22:26.449765 Dec-13-2021 , Step1 Start: Kick Off Extact process
+17:22:26.603681 Dec-13-2021 , Step1 End: Complete Extact process
+17:22:26.603878 Dec-13-2021 , Step2 Start: Kick Off Transform process
+17:22:26.604751 Dec-13-2021 , Step2 End: Complete Transform process
+17:22:26.605022 Dec-13-2021 , Step3 Start: Kick Off Loading process
+17:22:27.323833 Dec-13-2021 , Step3 End: Complete Loading process
+17:22:27.324091 Dec-13-2021 , END ETL process
